@@ -1,0 +1,174 @@
+,attribute,frequency,level
+0,address,46.0,101 N MAIN ST
+1,address,43.0,201 S MAIN ST
+2,address,42.0,101 S MAIN ST
+3,address,40.0,100 S MAIN ST
+4,address,40.0,1 MAIN ST
+5,address,38.0,102 S MAIN ST
+6,address,35.0,110 W MAIN ST
+7,address,35.0,200 E MAIN ST
+8,address,35.0,201 W MAIN ST
+9,address,35.0,301 MAIN ST
+10,address,34.0,4 TIMES SQ
+11,address,34.0,400 MAIN ST
+12,address,34.0,101 E MAIN ST
+13,address,33.0,301 N MAIN ST
+14,address,33.0,100 MAIN ST
+15,address,32.0,200 S MAIN ST
+16,address,32.0,50 MAIN ST
+17,address,31.0,101 MAIN ST
+18,address,31.0,201 MAIN ST
+0,category_code,37891.0,54111000
+1,category_code,32577.0,53120000
+2,category_code,31745.0,54000000
+3,category_code,30171.0,42000000
+4,category_code,29205.0,62110000
+5,category_code,28693.0,54100000
+6,category_code,27538.0,23000000
+7,category_code,26887.0,52420000
+8,category_code,22004.0,62400000
+9,category_code,19235.0,23820000
+10,category_code,19143.0,62000000
+11,category_code,17026.0,72200000
+12,category_code,16514.0,81300000
+13,category_code,16343.0,54121000
+14,category_code,15243.0,62130000
+15,category_code,14867.0,51000000
+16,category_code,14114.0,44000000
+17,category_code,13293.0,23611600
+18,category_code,12160.0,56000000
+0,city,11109.0,HOUSTON
+1,city,9023.0,CHICAGO
+2,city,6317.0,DALLAS
+3,city,5997.0,SAN DIEGO
+4,city,5813.0,ATLANTA
+5,city,5797.0,PORTLAND
+6,city,5618.0,AUSTIN
+7,city,5522.0,LOS ANGELES
+8,city,5170.0,WASHINGTON
+9,city,4889.0,PHOENIX
+10,city,4871.0,SAN FRANCISCO
+11,city,4832.0,MINNEAPOLIS
+12,city,4660.0,SEATTLE
+13,city,4639.0,MIAMI
+14,city,4500.0,DENVER
+15,city,4350.0,SAINT LOUIS
+16,city,4236.0,COLUMBUS
+17,city,4012.0,SAN ANTONIO
+18,city,3887.0,INDIANAPOLIS
+0,headcount,212401.0,5 to 9
+1,headcount,151412.0,10 to 19
+2,headcount,121264.0,20 to 49
+3,headcount,60526.0,50 to 99
+4,headcount,36475.0,100 to 249
+5,headcount,11138.0,250 to 499
+6,headcount,5600.0,"Over 1,000"
+7,headcount,5250.0,500 to 999
+8,headcount,17.0,none
+9,headcount,17.0, 
+10,headcount,15.0,0
+11,headcount,12.0,null
+12,headcount,10.0,0
+13,headcount,8.0,
+0,name,667.0,Ameriprise Financial
+1,name,422.0,Keller Williams Realty
+2,name,364.0,YMCA
+3,name,336.0,First Presbyterian Church
+4,name,332.0,First Baptist Church
+5,name,317.0,State Farm Insurance
+6,name,303.0,RE/MAX
+7,name,290.0,Walgreens
+8,name,282.0,Liberty Tax Service
+9,name,281.0,McDonald's
+10,name,280.0,NAPA Auto Parts
+11,name,273.0,Coldwell Banker
+12,name,271.0,Mary Kay Cosmetics
+13,name,253.0,U.S. BANK
+14,name,229.0,CENTURY 21
+15,name,224.0,Verizon Wireless
+16,name,223.0,Regions Bank
+17,name,217.0,BB&T
+18,name,206.0,Budget Blinds
+0,phone,50.0,6126255000
+1,phone,50.0,8002574725
+2,phone,38.0,2025475600
+3,phone,31.0,2027202500
+4,phone,24.0,2032450456
+5,phone,22.0,none
+6,phone,21.0,2017983300
+7,phone,21.0,2025438060
+8,phone,20.0,9728706000
+9,phone,19.0,2022234777
+10,phone,18.0,0
+11,phone,18.0,0
+12,phone,18.0,8009994328
+13,phone,17.0,8055572300
+14,phone,15.0,2016042100
+15,phone,15.0,2149993000
+16,phone,15.0,7043865681
+17,phone,14.0,8668785865
+18,phone,13.0,2175287541
+0,revenue,169540.0,$1 to 2.5 Million
+1,revenue,153163.0,"$500,000 to $1 Million"
+2,revenue,99245.0,$2.5 to 5 Million
+3,revenue,83924.0,$5 to 10 Million
+4,revenue,48454.0,$10 to 20 Million
+5,revenue,32797.0,$20 to 50 Million
+6,revenue,12765.0,$50 to 100 Million
+7,revenue,10130.0,$100 to 500 Million
+8,revenue,1769.0,Over $1 Billion
+9,revenue,1579.0,Over $500 Million
+10,revenue,19.0,null
+11,revenue,16.0, 
+12,revenue,15.0,0
+13,revenue,15.0,0
+14,revenue,15.0,none
+15,revenue,11.0,
+0,state,70301.0,TX
+1,state,63245.0,FL
+2,state,57411.0,NY
+3,state,44126.0,IL
+4,state,40609.0,PA
+5,state,36524.0,OH
+6,state,31237.0,MI
+7,state,30389.0,NC
+8,state,30014.0,MA
+9,state,29797.0,GA
+10,state,28837.0,NJ
+11,state,27161.0,VA
+12,state,24295.0,WA
+13,state,22243.0,MN
+14,state,21781.0,CO
+15,state,19973.0,MD
+16,state,19861.0,IN
+17,state,19558.0,MO
+18,state,18754.0,WI
+0,time_in_business,106144.0,6-10 years
+1,time_in_business,38280.0,3-5 years
+2,time_in_business,12756.0,1-2 years
+3,time_in_business,17.0,null
+4,time_in_business,15.0,0
+5,time_in_business,14.0,none
+6,time_in_business,13.0, 
+7,time_in_business,11.0,
+8,time_in_business,7.0,0
+9,time_in_business,1.0,Less than a year
+0,zip,1090.0,10022
+1,zip,1067.0,10018
+2,zip,1036.0,10016
+3,zip,840.0,10017
+4,zip,802.0,20036
+5,zip,730.0,92101
+6,zip,719.0,10019
+7,zip,712.0,92121
+8,zip,712.0,10036
+9,zip,706.0,92660
+10,zip,698.0,60606
+11,zip,686.0,92618
+12,zip,681.0,22314
+13,zip,673.0,78701
+14,zip,657.0,43215
+15,zip,657.0,80202
+16,zip,652.0,85260
+17,zip,591.0,80112
+18,zip,591.0,10011
