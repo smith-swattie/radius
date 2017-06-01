@@ -10,5 +10,7 @@ This repository includes:
 4) report.rmd: An R Markdown file summarizing insights from the analysis.
 5) smith_report.pdf: A PDF version of the R Markdown report.
 
-Please note that one image in the R Markdown report (missingValues.png) cannot be saved directly by running the radiusPlots.R. 
+Please note:
+--One image in the R Markdown report (missingValues.png) cannot be saved directly by running the radiusPlots.R. 
 This image is created by a widget, and widget images cannot be saved in R. 
+--The files ld_unique.csv and jaccard_unique.csv are not saved on github due to space limitations. Re-run the radiusAnalysis.py script to create the files.
